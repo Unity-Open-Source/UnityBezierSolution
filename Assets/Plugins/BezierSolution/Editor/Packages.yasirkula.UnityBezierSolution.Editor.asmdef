@@ -1,0 +1,17 @@
+{
+    "name": "Packages.yasirkula.UnityBezierSolution.Editor",
+    "references": [
+        "Packages.yasirkula.UnityBezierSolution"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
